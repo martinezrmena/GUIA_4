@@ -43,6 +43,7 @@
                 android:background="@color/colorAccent"
                 android:src="@drawable/android_pic" />
         </TableRow>
+
     </TableLayout>
 
 
